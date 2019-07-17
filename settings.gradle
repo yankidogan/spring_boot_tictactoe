@@ -1,0 +1,6 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'ultimate_tic_tac_toe'
